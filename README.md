@@ -22,3 +22,8 @@ This software does just that!
 
 That's it. In about 20s you will see first media in a slider on the right side. You can open and close it using its handler that says "summary". 
 The software will work and part content continuously. 
+
+
+### Screenshot
+
+<img src="https://github.com/maratishe/twooter/blob/master/screenshot.png?raw=true"/>
